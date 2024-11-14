@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://LynxLunge155.github.io/LynxLunge155_github_io_zp533_13.txt
+Sitemap: https://LynxLunge155.github.io/LynxLunge155_github_io_zp533_22.txt
+Sitemap: https://LynxLunge155.github.io/LynxLunge155_github_io_zp533_5.txt
